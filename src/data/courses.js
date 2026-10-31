@@ -66,7 +66,7 @@ const courses = [
   course({
     id: 'ui-design',
     title: 'UI Design Fundamentals',
-    thumbnail: img('photo-1561070791-2526d30994b8'),
+    thumbnail: img('photo-1461749280684-dccba630e2f6'),
     description:
       'Make interfaces that look clear and professional. Study hierarchy, colour, type and spacing, then finish with a small design system you can reuse.',
     instructor: 'Daniel Brooks',
