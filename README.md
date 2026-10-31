@@ -53,7 +53,7 @@ src/
 
 ## Live demo and credits
 
-- Live demo: **ADD YOUR VERCEL LINK HERE**
+- Live demo: https://learnhub-lms-two.vercel.app
 - Course and instructor images: [Unsplash](https://unsplash.com) (Unsplash License)
 - Sample video: CC0 "flower" clip from [MDN](https://developer.mozilla.org/)
 
